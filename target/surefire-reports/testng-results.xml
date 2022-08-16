@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13010" started-at="2022-08-15T23:01:20Z" finished-at="2022-08-15T23:01:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13010" started-at="2022-08-15T23:01:20Z" finished-at="2022-08-15T23:01:33Z">
+      <class name="com_AutomationTalks.demoProject1Cloud.TestClass1">
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com_AutomationTalks.demoProject1Cloud.TestClass1@7ff95560]" name="launchDriver" is-config="true" duration-ms="5909" started-at="2022-08-15T23:01:20Z" finished-at="2022-08-15T23:01:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:com_AutomationTalks.demoProject1Cloud.TestClass1@7ff95560]" name="Test1" duration-ms="3706" started-at="2022-08-15T23:01:26Z" finished-at="2022-08-15T23:01:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:com_AutomationTalks.demoProject1Cloud.TestClass1@7ff95560]" name="Test2" duration-ms="833" started-at="2022-08-15T23:01:30Z" finished-at="2022-08-15T23:01:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:com_AutomationTalks.demoProject1Cloud.TestClass1@7ff95560]" name="Test3" duration-ms="847" started-at="2022-08-15T23:01:30Z" finished-at="2022-08-15T23:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com_AutomationTalks.demoProject1Cloud.TestClass1@7ff95560]" name="quit" is-config="true" duration-ms="1683" started-at="2022-08-15T23:01:31Z" finished-at="2022-08-15T23:01:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com_AutomationTalks.demoProject1Cloud.TestClass1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
